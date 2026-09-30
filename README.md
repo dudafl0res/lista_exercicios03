@@ -1,9 +1,5 @@
 # Lista de Exercícios - Lógica de Programação
 
-Exercícios da lista de Pseudocódigo e Fluxograma feitos em linguagem C no Dev-C++.
-
-Para rodar: abrir o arquivo `.c` no Dev-C++ e apertar F11.
-
 Aluna: Maria Eduarda Flores
 
 ---
